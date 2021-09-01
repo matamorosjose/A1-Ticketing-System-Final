@@ -1,0 +1,16 @@
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.exe
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.deps.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.runtimeconfig.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.runtimeconfig.dev.json
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\ref\A1-ticketing-system-original.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\bin\Debug\net5.0\A1-ticketing-system-original.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.csprojAssemblyReference.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.AssemblyInfoInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.AssemblyInfo.cs
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.csproj.CoreCompileInputs.cache
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\ref\A1-ticketing-system-original.dll
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.pdb
+C:\Users\jlmat\Documents\WCTC\.Net_Class\A1-ticketing-system-original_v1\obj\Debug\net5.0\A1-ticketing-system-original.genruntimeconfig.cache
